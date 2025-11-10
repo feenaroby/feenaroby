@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Feena Roby  
 
-<!--
-**feenaroby/feenaroby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate  
+💻 Java | Python | HTML | CSS | JavaScript | Bootstrap  
+📚 Currently learning Spring Boot & improving problem solving  
+🌱 Open to collaborate on interesting projects  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Java, Python
+- HTML, CSS, JavaScript, Bootstrap
+- SQL, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- Email: feenarobyfeena@gmail.com
+
